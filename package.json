@@ -1,3 +1,4 @@
+
 {
   "name": "basic_node_server",
   "version": "1.0.0",
@@ -5,6 +6,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
